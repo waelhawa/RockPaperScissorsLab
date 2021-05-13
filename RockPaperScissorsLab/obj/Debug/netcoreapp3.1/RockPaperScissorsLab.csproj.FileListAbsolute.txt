@@ -1,0 +1,13 @@
+F:\GrandCircus\C#\RockPaperScissorsLab\RockPaperScissorsLab\obj\Debug\netcoreapp3.1\RockPaperScissorsLab.csprojAssemblyReference.cache
+F:\GrandCircus\C#\RockPaperScissorsLab\RockPaperScissorsLab\obj\Debug\netcoreapp3.1\RockPaperScissorsLab.AssemblyInfoInputs.cache
+F:\GrandCircus\C#\RockPaperScissorsLab\RockPaperScissorsLab\obj\Debug\netcoreapp3.1\RockPaperScissorsLab.AssemblyInfo.cs
+F:\GrandCircus\C#\RockPaperScissorsLab\RockPaperScissorsLab\obj\Debug\netcoreapp3.1\RockPaperScissorsLab.csproj.CoreCompileInputs.cache
+F:\GrandCircus\C#\RockPaperScissorsLab\RockPaperScissorsLab\bin\Debug\netcoreapp3.1\RockPaperScissorsLab.exe
+F:\GrandCircus\C#\RockPaperScissorsLab\RockPaperScissorsLab\bin\Debug\netcoreapp3.1\RockPaperScissorsLab.deps.json
+F:\GrandCircus\C#\RockPaperScissorsLab\RockPaperScissorsLab\bin\Debug\netcoreapp3.1\RockPaperScissorsLab.runtimeconfig.json
+F:\GrandCircus\C#\RockPaperScissorsLab\RockPaperScissorsLab\bin\Debug\netcoreapp3.1\RockPaperScissorsLab.runtimeconfig.dev.json
+F:\GrandCircus\C#\RockPaperScissorsLab\RockPaperScissorsLab\bin\Debug\netcoreapp3.1\RockPaperScissorsLab.dll
+F:\GrandCircus\C#\RockPaperScissorsLab\RockPaperScissorsLab\bin\Debug\netcoreapp3.1\RockPaperScissorsLab.pdb
+F:\GrandCircus\C#\RockPaperScissorsLab\RockPaperScissorsLab\obj\Debug\netcoreapp3.1\RockPaperScissorsLab.dll
+F:\GrandCircus\C#\RockPaperScissorsLab\RockPaperScissorsLab\obj\Debug\netcoreapp3.1\RockPaperScissorsLab.pdb
+F:\GrandCircus\C#\RockPaperScissorsLab\RockPaperScissorsLab\obj\Debug\netcoreapp3.1\RockPaperScissorsLab.genruntimeconfig.cache
